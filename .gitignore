@@ -1,0 +1,4 @@
+*.o
+sync_car
+*.tar
+*.tar.gz
